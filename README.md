@@ -8,3 +8,4 @@ To-Do:
   - all texture slots are used
   - a new shader is chosen to be used
   - uniforms in a are shader changed
+- provide user input to show off dynamic batching
